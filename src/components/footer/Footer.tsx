@@ -142,7 +142,7 @@ export default function Footer() {
                     {/* Bottom Row */}
                     <div className="flex flex-col md:flex-row justify-between items-center pt-8 border-t border-[#dbdfe6] dark:border-[#1e293b] gap-4">
                         <p className="text-[#616f89] dark:text-gray-500 text-sm">
-                            © 2024 Dithari Solutions. All rights reserved.
+                            © 2026 Dithari Solutions. All rights reserved.
                         </p>
                         <div className="flex gap-6">
                             <a

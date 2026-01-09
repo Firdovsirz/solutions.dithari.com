@@ -35,7 +35,7 @@ export default function Collaborators() {
                             <span className="">
                                 <Image src={Aztu} alt="Buyology" width={50} height={50} />
                             </span>
-                            AzTU
+                            Azerbaijan Technical University
                         </div>
                     </div>
                 </div>

@@ -29,7 +29,7 @@ export default function Intro() {
                                         </h2>
                                     </div>
                                     <div className="flex flex-wrap gap-4 mt-2">
-                                        <button className="flex min-w-[120px] cursor-pointer items-center justify-center rounded-lg h-12 px-6 bg-[#0f45b7] hover:bg-primary-dark transition-all text-white text-base font-bold shadow-lg shadow-primary/25">
+                                        <button className="flex min-w-[120px] cursor-pointer items-center justify-center rounded-lg h-12 px-6 bg-[#135bed] hover:bg-[#0f45b7] transition-all text-white text-base font-bold shadow-lg shadow-primary/25">
                                             <span className="truncate">Our Services</span>
                                         </button>
                                             <Link href={"/contact-us"}>
